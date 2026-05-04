@@ -1,0 +1,89 @@
+{
+  "categorias": [
+    {
+      "nombre": "Reproductores",
+      "items": [
+        {
+          "nombre": "Ace Stream Dark MOD (Arm7)",
+          "version": "3.2.14.2",
+          "fecha": "04/05/2026",
+          "enlace": "https://go.aftvnews.com/8216095",
+          "codigo": "8216095"
+        },
+        {
+          "nombre": "Ace Stream Dark MOD (Arm8)",
+          "version": "3.2.14.2",
+          "fecha": "04/05/2026",
+          "enlace": "https://go.aftvnews.com/8964334",
+          "codigo": "8964334"
+        }
+      ]
+    },
+    {
+      "nombre": "Tv-cine-series",
+      "items": [
+        {
+          "nombre": "Socram TV",
+          "version": "Actualizada",
+          "fecha": "04/05/2026",
+          "enlace": "https://www.mediafire.com/file/ka820qtxaxs6lkw/Socram_TV.apk/file",
+          "codigo": "2722314"
+        },
+        {
+          "nombre": "Cineflix (Android TV)",
+          "version": "1.6",
+          "fecha": "04/05/2026",
+          "enlace": "https://www.mediafire.com/file/kdiycdcs2opibdz/Cineflix_AndroidTV_1.6.apk/file",
+          "codigo": "9420068"
+        },
+        {
+          "nombre": "Cineflix (Móvil/Tablet)",
+          "version": "1.3",
+          "fecha": "04/05/2026",
+          "enlace": "https://www.mediafire.com/file/soiqxpzwkv2w4l7/Cineflix_Android_1.3.apk/file",
+          "codigo": "Pendiente"
+        },
+        {
+          "nombre": "TvGram (arm64-v8a)",
+          "version": "4.4.04",
+          "fecha": "04/05/2026",
+          "enlace": "https://www.mediafire.com/file/o2js83dn26r5nai/tvgram-4.4.04-arm64-v8a-release.apk/file",
+          "codigo": "Pendiente"
+        },
+        {
+          "nombre": "TvGram (armeabi-v7a)",
+          "version": "4.4.04",
+          "fecha": "04/05/2026",
+          "enlace": "https://www.mediafire.com/file/escyu01f2lrpzmh/tvgram-4.4.04-armeabi-v7a-release.apk/file",
+          "codigo": "8455687"
+        },
+        {
+          "nombre": "Rbtv77",
+          "version": "Actualizada",
+          "fecha": "04/05/2026",
+          "enlace": "https://www.mediafire.com/folder/662ho1yu68i24/RBLive77",
+          "codigo": "4769153"
+        },
+        {
+          "nombre": "Dixmax (TV)",
+          "version": "3.1.5",
+          "fecha": "04/05/2026",
+          "enlace": "https://www.mediafire.com/file/uocgsqkuw4nk4rd/%255BTV%255Ddixmax-tv-v3.1.5.apk/file",
+          "codigo": "2745379"
+        }
+      ]
+    },
+    {
+      "nombre": "Utilidades",
+      "items": [
+        {
+          "nombre": "Cx Explorador de Archivos",
+          "version": "2.6.4",
+          "fecha": "04/05/2026",
+          "enlace": "https://www.mediafire.com/file/wv0ns3klmt4ush9/Cx_Explorador_de_Archivos_2.6.4.apk/file",
+          "codigo": "7742728"
+        }
+      ]
+    }
+  ]
+}
