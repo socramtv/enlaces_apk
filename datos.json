@@ -4,17 +4,31 @@
       "nombre": "Reproductores",
       "items": [
         {
+          "nombre": "Ace Stream Pro (armeabi-v7a)",
+          "version": "3.2.18.0",
+          "fecha": "05/05/2026",
+          "enlace": "https://www.mediafire.com/file/vl14e85cjd3c25w/AceStream_Pro_3.2.18.0_armeabi-v7a_%25284%2529.apk/file",
+          "codigo": "Pendiente"
+        },
+        {
+          "nombre": "Ace Stream Pro (arm64-v8a)",
+          "version": "3.2.18.0",
+          "fecha": "05/05/2026",
+          "enlace": "https://www.mediafire.com/file/qlpfkd205zv7nnx/AceStream_Pro_3.2.18.0_arm64-v8a_%25284%2529.apk/file",
+          "codigo": "Pendiente"
+        },
+        {
           "nombre": "Ace Stream Dark MOD (Arm7)",
           "version": "3.2.14.2",
           "fecha": "04/05/2026",
-          "enlace": "https://go.aftvnews.com/8216095",
+          "enlace": "#",
           "codigo": "8216095"
         },
         {
           "nombre": "Ace Stream Dark MOD (Arm8)",
           "version": "3.2.14.2",
           "fecha": "04/05/2026",
-          "enlace": "https://go.aftvnews.com/8964334",
+          "enlace": "#",
           "codigo": "8964334"
         }
       ]
@@ -27,14 +41,14 @@
           "version": "Actualizada",
           "fecha": "04/05/2026",
           "enlace": "https://www.mediafire.com/file/ka820qtxaxs6lkw/Socram_TV.apk/file",
-          "codigo": "2722314"
+          "codigo": "Pendiente"
         },
         {
           "nombre": "Cineflix (Android TV)",
           "version": "1.6",
           "fecha": "04/05/2026",
           "enlace": "https://www.mediafire.com/file/kdiycdcs2opibdz/Cineflix_AndroidTV_1.6.apk/file",
-          "codigo": "9420068"
+          "codigo": "Pendiente"
         },
         {
           "nombre": "Cineflix (Móvil/Tablet)",
@@ -49,13 +63,6 @@
           "fecha": "04/05/2026",
           "enlace": "https://www.mediafire.com/file/o2js83dn26r5nai/tvgram-4.4.04-arm64-v8a-release.apk/file",
           "codigo": "Pendiente"
-        },
-        {
-          "nombre": "TvGram (armeabi-v7a)",
-          "version": "4.4.04",
-          "fecha": "04/05/2026",
-          "enlace": "https://www.mediafire.com/file/escyu01f2lrpzmh/tvgram-4.4.04-armeabi-v7a-release.apk/file",
-          "codigo": "8455687"
         },
         {
           "nombre": "Rbtv77",
