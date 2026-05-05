@@ -37,6 +37,27 @@
       "nombre": "Tv-cine-series",
       "items": [
         {
+          "nombre": "TvGram (armeabi-v7a)",
+          "version": "4.4.04",
+          "fecha": "05/05/2026",
+          "enlace": "https://www.mediafire.com/file/escyu01f2lrpzmh/tvgram-4.4.04-armeabi-v7a-release.apk/file",
+          "codigo": "Pendiente"
+        },
+        {
+          "nombre": "TvGram (arm64-v8a)",
+          "version": "4.4.04",
+          "fecha": "05/05/2026",
+          "enlace": "https://www.mediafire.com/file/o2js83dn26r5nai/tvgram-4.4.04-arm64-v8a-release.apk/file",
+          "codigo": "Pendiente"
+        },
+        {
+          "nombre": "TvGram (x86_64)",
+          "version": "4.4.04",
+          "fecha": "05/05/2026",
+          "enlace": "https://www.mediafire.com/file/u406cwj5hlihd3z/tvgram-4.4.04-x86_64-release.apk/file",
+          "codigo": "Pendiente"
+        },
+        {
           "nombre": "Socram TV",
           "version": "Actualizada",
           "fecha": "04/05/2026",
@@ -55,13 +76,6 @@
           "version": "1.3",
           "fecha": "04/05/2026",
           "enlace": "https://www.mediafire.com/file/soiqxpzwkv2w4l7/Cineflix_Android_1.3.apk/file",
-          "codigo": "Pendiente"
-        },
-        {
-          "nombre": "TvGram (arm64-v8a)",
-          "version": "4.4.04",
-          "fecha": "04/05/2026",
-          "enlace": "https://www.mediafire.com/file/o2js83dn26r5nai/tvgram-4.4.04-arm64-v8a-release.apk/file",
           "codigo": "Pendiente"
         },
         {
