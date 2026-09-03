@@ -4,6 +4,20 @@
       "nombre": "Reproductores",
       "items": [
         {
+          "nombre": "Ace Serve (Móvil)",
+          "version": "Actualizada",
+          "fecha": "03/09/2026",
+          "enlace": "https://pixeldrain.net/u/FiqCxY3K",
+          "codigo": "4727171"
+        },
+        {
+          "nombre": "Ace Serve (Android TV)",
+          "version": "Actualizada",
+          "fecha": "03/09/2026",
+          "enlace": "https://pixeldrain.net/u/xFKxFipM",
+          "codigo": "3160094"
+        },
+        {
           "nombre": "Ace Stream Pro (armeabi-v7a)",
           "version": "3.2.18.0",
           "fecha": "05/05/2026",
@@ -37,6 +51,13 @@
       "nombre": "Tv-cine-series",
       "items": [
         {
+          "nombre": "Socram TV",
+          "version": "Actualizada",
+          "fecha": "03/09/2026",
+          "enlace": "https://pixeldrain.net/u/HersCqWn",
+          "codigo": "3812844"
+        },
+        {
           "nombre": "TvGram (armeabi-v7a)",
           "version": "4.4.04",
           "fecha": "05/05/2026",
@@ -55,13 +76,6 @@
           "version": "4.4.04",
           "fecha": "05/05/2026",
           "enlace": "https://www.mediafire.com/file/u406cwj5hlihd3z/tvgram-4.4.04-x86_64-release.apk/file",
-          "codigo": "Pendiente"
-        },
-        {
-          "nombre": "Socram TV",
-          "version": "Actualizada",
-          "fecha": "04/05/2026",
-          "enlace": "https://www.mediafire.com/file/ka820qtxaxs6lkw/Socram_TV.apk/file",
           "codigo": "Pendiente"
         },
         {
